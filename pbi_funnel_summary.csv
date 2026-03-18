@@ -1,0 +1,6 @@
+stage,total_users,converted,dropped,conv_rate_pct,retention_pct,dropoff_pct
+Homepage,10000,10000,0,100.0,100.0,0.0
+Product Page,5000,2515,2485,50.3,50.0,50.0
+Cart,1500,449,1051,29.93,15.0,70.0
+Checkout,450,36,414,8.0,4.5,70.0
+Purchase,225,14,211,6.22,2.2,50.0
