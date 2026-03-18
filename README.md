@@ -39,7 +39,7 @@ Skills:
 
 `Business Recommendations` `Data Storytelling`
 
-Results & Business Recommendations:**
+Results & Business Recommendations:
 
 Funnel Overview
 | Stage | Users | Retention% | Stage Conv% | Drop-off% |
