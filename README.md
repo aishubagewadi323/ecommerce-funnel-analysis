@@ -28,8 +28,8 @@ Using Python, I performed a full 7-step EDA on a 17,175-row funnel dataset, anal
 - Data transformation — derived converted/dropped labels, stage-level aggregations
 - Funnel analysis — computed conversion rates, drop-off %, and retention % per stage
 - Visualisation — built 3 chart sets in Matplotlib (funnel, distributions, patterns)
-- SQL analysis — 12 queries + master view in MySQL covering full funnel breakdown
-- Dashboard — Power BI with funnel chart, KPI cards, DAX measures, and slicers
+- SQL analysis — sql queries + master view in MySQL covering full funnel breakdown
+- Dashboard — Power BI with funnel chart, KPI cards, DAX measures, and slicers.
 
 Skills:
 
